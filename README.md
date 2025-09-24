@@ -68,26 +68,26 @@ UMR-Indonesia/data/Indonesian Salary by Region (1997-2022).csv
 ---
 ## 📈 Visualisasi dan Output
 
-Tren rata-rata UMR tiap provinsi/pulau
+- **Tren rata-rata UMR tiap provinsi/pulau**
 
-Pertumbuhan tahunan UMR nasional
+- **Pertumbuhan tahunan UMR nasional**
 
-Provinsi dengan UMR tertinggi
+- **Provinsi dengan UMR tertinggi**
 
-Prediksi 10 tahun ke depan dengan Linear Regression
+- **Prediksi 10 tahun ke depan dengan Linear Regression**
 
-Animasi interaktif UMR tiap provinsi (Plotly)
+- **Animasi interaktif UMR tiap provinsi (Plotly)**
 
 💡 Insight yang Bisa Didapat
 
-Provinsi dengan pertumbuhan UMR tercepat
+- **Provinsi dengan pertumbuhan UMR tercepat**
 
-Tren gap UMR antar provinsi/pulau
+- **Tren gap UMR antar provinsi/pulau**
 
-Prediksi UMR masa depan untuk perencanaan ekonomi/regional
+- **Prediksi UMR masa depan untuk perencanaan ekonomi/regional**
 
 📌 Catatan
 
-Model prediksi sederhana menggunakan Linear Regression
+- **Model prediksi sederhana menggunakan Linear Regression**
 
-Data prediksi bersifat estimasi, bukan nilai resmi pemerintah
+- **Data prediksi bersifat estimasi, bukan nilai resmi pemerintah**
