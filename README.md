@@ -48,19 +48,25 @@ git clone https://github.com/username/UMR-Indonesia.git
 
 2. Install dependencies:
 
+```bash 
 pip install pandas numpy matplotlib seaborn plotly scikit-learn
+```
 
 
 3. Jalankan notebook Python (.ipynb) untuk melihat analisis dan visualisasi:
 
+```bash
 jupyter notebook UMR_Indonesia.ipynb
-
+```
 
 4. Dataset harus disimpan di folder yang sesuai, misal:
 
+```bash
 UMR-Indonesia/data/Indonesian Salary by Region (1997-2022).csv
+```
 
-📈 Visualisasi dan Output
+---
+## 📈 Visualisasi dan Output
 
 Tren rata-rata UMR tiap provinsi/pulau
 
