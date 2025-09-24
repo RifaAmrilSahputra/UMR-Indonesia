@@ -44,18 +44,19 @@ Repository ini berisi analisis data UMR di seluruh provinsi Indonesia dari tahun
 
 ```bash
 git clone https://github.com/username/UMR-Indonesia.git
+```
 
-Install dependencies:
+2. Install dependencies:
 
 pip install pandas numpy matplotlib seaborn plotly scikit-learn
 
 
-Jalankan notebook Python (.ipynb) untuk melihat analisis dan visualisasi:
+3. Jalankan notebook Python (.ipynb) untuk melihat analisis dan visualisasi:
 
 jupyter notebook UMR_Indonesia.ipynb
 
 
-Dataset harus disimpan di folder yang sesuai, misal:
+4. Dataset harus disimpan di folder yang sesuai, misal:
 
 UMR-Indonesia/data/Indonesian Salary by Region (1997-2022).csv
 
